@@ -1,1 +1,3 @@
-# GSEA_Pathway_Analysis
+# GSEA Pathway Analysis Pipeline
+
+See README pdf file for details.
